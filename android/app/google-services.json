@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "326673895966",
+    "project_id": "spacer-55ff9",
+    "storage_bucket": "spacer-55ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326673895966:android:0446cd92d48fc311d6d40f",
+        "android_client_info": {
+          "package_name": "com.spacermobility"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326673895966-rli7j0pt8c8jtqfojho7ga5p9jfp5ud4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3d1zU-MMyhu5emsAHsggYWZ7BOxZSbt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326673895966-rli7j0pt8c8jtqfojho7ga5p9jfp5ud4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326673895966-3r40skmsjbfsijgpj8alrk3nons5kkma.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spacermobility.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

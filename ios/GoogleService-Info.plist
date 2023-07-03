@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>326673895966-3r40skmsjbfsijgpj8alrk3nons5kkma.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.326673895966-3r40skmsjbfsijgpj8alrk3nons5kkma</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBOvVNr2a7-KjGUBGDu_UBwKnz44rEZRpI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>326673895966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.spacermobility.dev</string>
+	<key>PROJECT_ID</key>
+	<string>spacer-55ff9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>spacer-55ff9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:326673895966:ios:619bb9cbd1e7f9b6d6d40f</string>
+</dict>
+</plist>
